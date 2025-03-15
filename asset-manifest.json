@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio-nishita.io/static/css/main.eb6a8b42.css",
-    "main.js": "/portfolio-nishita.io/static/js/main.c1ad595f.js",
+    "main.js": "/portfolio-nishita.io/static/js/main.6fec2102.js",
     "static/js/787.03321eb2.chunk.js": "/portfolio-nishita.io/static/js/787.03321eb2.chunk.js",
     "index.html": "/portfolio-nishita.io/index.html",
     "main.eb6a8b42.css.map": "/portfolio-nishita.io/static/css/main.eb6a8b42.css.map",
-    "main.c1ad595f.js.map": "/portfolio-nishita.io/static/js/main.c1ad595f.js.map",
+    "main.6fec2102.js.map": "/portfolio-nishita.io/static/js/main.6fec2102.js.map",
     "787.03321eb2.chunk.js.map": "/portfolio-nishita.io/static/js/787.03321eb2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb6a8b42.css",
-    "static/js/main.c1ad595f.js"
+    "static/js/main.6fec2102.js"
   ]
 }
