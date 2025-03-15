@@ -67,7 +67,7 @@ const CapstoneProject = () => {
           {/* Status Reports */}
           <div className="capstone-section">
             <h4>Status Reports</h4>
-            <a href="https://nishh1810.github.io/capstone/W25_T30_ProjectReport2.pdf" target="_blank" rel="noopener noreferrer">
+            <a href="https://nishh1810.github.io/portfolio-nishita.io/capstone/W25_T30_ProjectReport2.pdf" target="_blank" rel="noopener noreferrer">
               View Status Reports
             </a>
           </div>
