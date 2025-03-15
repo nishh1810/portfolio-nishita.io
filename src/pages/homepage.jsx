@@ -88,6 +88,7 @@ const Homepage = () => {
               Building and leading the development of the <strong>TechBarter Web App</strong>, a platform enabling seamless exchange of tech parts.
             </p>
           </div>
+          
 
           <div className="homepage-subtitle">
             <p>

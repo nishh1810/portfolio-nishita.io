@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import { Routes, Route } from "react-router-dom";
+import { Route, Routes } from 'react-router-dom';
 import ReactGA from "react-ga4";
 
 import Homepage from "./pages/homepage";
@@ -31,4 +31,4 @@ function App() {
 	);
 }
 
-export default App;
+export default App; 

@@ -13,7 +13,7 @@ const CapstoneProject = () => {
           {/* Project Summary */}
           <div className="capstone-section">
             <h4>Project Summary</h4>
-            <a href="../capstone/F24_T30_ProjectSummary.pdf" target="_blank" rel="noopener noreferrer">
+            <a href="https://nishh1810.github.io/portfolio-nishita.io/capstone/F24_T30_ProjectSummary.pdf" target="_blank" rel="noopener noreferrer">
               View Summary Document
             </a>
           </div>
@@ -21,7 +21,7 @@ const CapstoneProject = () => {
           {/* Project Vision */}
           <div className="capstone-section">
             <h4>Project Vision</h4>
-            <a href="../capstone/F24_T30_ProjectVision.pdf" target="_blank" rel="noopener noreferrer">
+            <a href="https://nishh1810.github.io/portfolio-nishita.io/capstone/F24_T30_ProjectVision.pdf" target="_blank" rel="noopener noreferrer">
               View Vision Document
             </a>
           </div>
@@ -29,7 +29,7 @@ const CapstoneProject = () => {
           {/* Project/Business Requirements */}
           <div className="capstone-section">
             <h4>Project/Business Requirements</h4>
-            <a href="../capstone/businessRequirement.pdf" target="_blank" rel="noopener noreferrer">
+            <a href="https://nishh1810.github.io/portfolio-nishita.io/capstone/businessRequirement.pdf" target="_blank" rel="noopener noreferrer">
               View Requirements Document
             </a>
           </div>
@@ -37,13 +37,13 @@ const CapstoneProject = () => {
           {/* Project Plan */}
           <div className="capstone-section">
             <h4>Project Plan</h4>
-            <a href="../capstone/W25_T30_ProjectPlan.pdf" target="_blank" rel="noopener noreferrer">
+            <a href="https://nishh1810.github.io/portfolio-nishita.io/capstone/W25_T30_ProjectPlan.pdf" target="_blank" rel="noopener noreferrer">
               View Project Plan Document
             </a>
           </div>
           <div className="capstone-section">
             <h4>Mockups</h4>
-            <a href="../capstone/F24_T30_Mockup.pdf" target="_blank" rel="noopener noreferrer">
+            <a href="https://nishh1810.github.io/portfolio-nishita.io/capstone/F24_T30_Mockup.pdf" target="_blank" rel="noopener noreferrer">
               View Mockup Document
             </a>
           </div>
@@ -51,7 +51,7 @@ const CapstoneProject = () => {
           {/* Requirements Analysis and Design */}
           <div className="capstone-section">
             <h4>Tech Requirements Analysis and Design</h4>
-            <a href="../capstone/F24_T30_TechReq.pdf" target="_blank" rel="noopener noreferrer">
+            <a href="https://nishh1810.github.io/portfolio-nishita.io/capstone/F24_T30_TechReq.pdf" target="_blank" rel="noopener noreferrer">
               View Analysis and Design Document
             </a>
           </div>
@@ -59,7 +59,7 @@ const CapstoneProject = () => {
           {/* Wireframes/Mockups */}
           <div className="capstone-section">
             <h4>Wireframes</h4>
-            <a href="../capstone/Wireframes.pdf" target="_blank" rel="noopener noreferrer">
+            <a href="https://nishh1810.github.io/portfolio-nishita.io/capstone/Wireframes.pdf" target="_blank" rel="noopener noreferrer">
               View Wireframes and Mockups
             </a>
           </div>
@@ -67,7 +67,7 @@ const CapstoneProject = () => {
           {/* Status Reports */}
           <div className="capstone-section">
             <h4>Status Reports</h4>
-            <a href="../capstone/W25_T30_ProjectReport2.pdf" target="_blank" rel="noopener noreferrer">
+            <a href="https://nishh1810.github.io/capstone/W25_T30_ProjectReport2.pdf" target="_blank" rel="noopener noreferrer">
               View Status Reports
             </a>
           </div>

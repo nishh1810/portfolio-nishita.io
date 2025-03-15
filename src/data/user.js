@@ -3,7 +3,7 @@ const INFO = {
 		title: "PortFolio",
 		name: "Nishita Sachdev",
 		email: "nishita.sachdev@georgebrown.ca",
-		logo: "../logo.png",
+		logo: "https://nishh1810.github.io/portfolio-nishita.io/capstone/logo.png",
 	},
 
 	socials: {
@@ -21,8 +21,8 @@ const INFO = {
 		title: "Hi, I’m Nishita Sachdev, a Toronto-based developer crafting innovative solutions that make a real impact.",
 		description: "A dedicated developer with a strong passion for building innovative solutions, transforming complex challenges into effective, user-friendly applications. Continuously eager to learn and adapt, bringing creativity and technical expertise to every project.",
 		bio: "I am a dedicated student from George Brown College, pursuing Computer Programming and Analysis, with a strong passion for technology and problem-solving. I enjoy creating innovative solutions that deliver real-world impact.",
-		resumeLink: "../Nishita_Sachdev_CV.pdf",
-		coverLetter: "../Nishita_Sachdev_Cover_Letter.pdf",
+		resumeLink: "https://nishh1810.github.io/portfolio-nishita.io/Nishita_Sachdev_CV.pdf",
+		coverLetter: "https://nishh1810.github.io/portfolio-nishita.io/Nishita_Sachdev_Cover_Letter.pdf",
 		philosophy: "We are the architects of our own creative journey. I believe that with curiosity, collaboration, and dedication, we can unlock our limitless potential and leave a lasting impact on the world.",
 		academicCredentials: [
 		  "Computer Programming and Analysis (GPA 3.6/4.0), George Brown College",
